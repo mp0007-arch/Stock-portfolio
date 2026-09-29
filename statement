@@ -1,0 +1,28 @@
+Problem Statement
+Project: Stock Tracker Course: CSE1021 – Introduction to Problem Solving and Programming Author: Kushagra Shekhar | Reg. No.: 26BAI10451
+Problem Statement
+Beginner investors often write down the shares they own on paper or in scattered notes. This makes it hard to see how much money is invested in each stock, what the total investment is, and which stock has the largest share of the money. Mistakes in typing quantities or prices also go unnoticed.
+This project solves the problem with a simple Python program that records stocks, calculates their values and checks every input.
+Scope
+Included:
+•	A Python console (text-based) program with a numbered menu
+•	Adding, viewing, searching and deleting stocks
+•	Calculating each stock's value, the total investment and the highest investment
+•	Checking input so wrong entries do not crash the program
+Not included:
+•	Saving data after the program closes (data is kept in memory while it runs)
+•	Live share prices or profit/loss calculation
+•	Graphical interface
+•	Multiple users or login
+Target Users
+•	Students and beginner investors who manage a small personal portfolio
+•	Beginners learning Python who want an example of functions, dictionaries, lists and loops
+High-Level Features
+1.	Add stock – store name, quantity and price per share
+2.	View all stocks – show quantity, price and total value of each stock
+3.	Calculate total investment – add up the value of all stocks
+4.	Search stock – find a stock by its name
+5.	Find highest investment – show the stock with the largest value
+6.	Delete stock – remove a stock from the portfolio
+7.	Input validation – reject blank names, duplicate stocks, non-numeric input, and zero or negative quantity and price
+
